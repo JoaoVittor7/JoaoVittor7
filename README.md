@@ -1,8 +1,8 @@
 ## Seja bem vindo ao meu perfil!
 
-Olá, meu nome é João Vitor e sou estudante do curso de Sistemas de Informação. Apaixonado por tecnologia, tenho um grande interesse em como sistemas podem transformar a vida das pessoas, além de otimizar processos e soluções empresariais. 
+- 👋 Olá, meu nome é João Vitor e sou estudante do curso de Sistemas de Informação. Apaixonado por tecnologia, tenho um grande interesse em como sistemas podem transformar a vida das pessoas, além de otimizar processos e soluções empresariais. 
 
-Tenho grande curiosidade sobre a evolução da inteligência artificial, aprendizado de máquina e como essas tecnologias podem ser aplicadas de forma eficaz na indústria de TI. Além disso, sou colaborativo e gosto de trabalhar em equipe para alcançar objetivos comuns, sempre com foco em resultados e melhorias contínuas.
+- 💡 Tenho grande curiosidade sobre a evolução da inteligência artificial, aprendizado de máquina e como essas tecnologias podem ser aplicadas de forma eficaz na indústria de TI. Além disso, sou colaborativo e gosto de trabalhar em equipe para alcançar objetivos comuns, sempre com foco em resultados e melhorias contínuas.
 
 
 Contato:
