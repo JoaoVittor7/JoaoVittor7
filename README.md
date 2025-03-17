@@ -5,7 +5,7 @@
 - 💡 Tenho grande curiosidade sobre a evolução da inteligência artificial, aprendizado de máquina e como essas tecnologias podem ser aplicadas de forma eficaz na indústria de TI. Além disso, sou colaborativo e gosto de trabalhar em equipe para alcançar objetivos comuns, sempre com foco em resultados e melhorias contínuas.
 
 
-Contato:
+- Contato:
 
    <a href="https://https://www.youtube.com/channel/UC_yicGGSQ418wwLHrGf665g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/_jotavex_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
