@@ -1,10 +1,11 @@
 ## Seja bem vindo ao meu perfil!
 
-- 👋 Olá, me chamo João Vitor 
-- 📚 Atualmente cursando Sistemas da Informação
-- 💡Todo conteúdo a ser postado aqui será com o intuito de demonstrar meu avanço em meus estudos.
-- 👇 Segue abaixo algumas de minhas redes sociais 
+Olá, meu nome é João Vitor e sou estudante do curso de Sistemas de Informação. Apaixonado por tecnologia, tenho um grande interesse em como sistemas podem transformar a vida das pessoas, além de otimizar processos e soluções empresariais. 
 
+Tenho grande curiosidade sobre a evolução da inteligência artificial, aprendizado de máquina e como essas tecnologias podem ser aplicadas de forma eficaz na indústria de TI. Além disso, sou colaborativo e gosto de trabalhar em equipe para alcançar objetivos comuns, sempre com foco em resultados e melhorias contínuas.
+
+
+Contato:
 
    <a href="https://https://www.youtube.com/channel/UC_yicGGSQ418wwLHrGf665g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/_jotavex_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
