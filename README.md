@@ -2,7 +2,8 @@
 
 - 👋 Olá, me chamo João Vitor 
 - 📚 Atualmente cursando Sistemas da Informação
-- 🎮 Amo programação e tecnologia, além de claro amar os jogos!
+- 💡Todo conteúdo a ser postado aqui será com o intuito de demonstrar meu avanço em meus estudos.
+- 👇 Segue abaixo algumas de minhas redes sociais 
 
 
    <a href="https://https://www.youtube.com/channel/UC_yicGGSQ418wwLHrGf665g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
